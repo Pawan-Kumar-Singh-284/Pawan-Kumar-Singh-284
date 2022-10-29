@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Pawan-Kumar-Singh-284
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ->> 19krpawan@gmail.com
+- <h1 align="center">Hey <img src="https://github.com/Pawan-Kumar-Singh-284/Readme-Resourses/blob/main/Hi.gif" width="35"> I 'm Pawan!</h1>
 - 
 
 <!---
